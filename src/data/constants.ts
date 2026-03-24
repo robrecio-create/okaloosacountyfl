@@ -1,12 +1,11 @@
 export const towns = [
   { name: 'Fort Walton Beach', slug: 'fort-walton-beach', businesses: 0 },
   { name: 'Destin', slug: 'destin', businesses: 0 },
-  { name: 'Niceville', slug: 'niceville', businesses: 0 },
   { name: 'Crestview', slug: 'crestview', businesses: 0 },
+  { name: 'Niceville', slug: 'niceville', businesses: 0 },
   { name: 'Mary Esther', slug: 'mary-esther', businesses: 0 },
-  { name: 'Valparaiso', slug: 'valparaiso', businesses: 0 },
+  { name: 'Shalimar', slug: 'shalimar', businesses: 0 },
 ];
-
 export const categories = [
   { name: 'Restaurants & Dining', slug: 'restaurants-dining', icon: '🍽️', count: 0 },
   { name: 'Shopping & Retail', slug: 'shopping-retail', icon: '🛍️', count: 0 },
@@ -27,7 +26,6 @@ export const categories = [
   { name: 'Accommodations', slug: 'accommodations', icon: '🏨', count: 0 },
   { name: 'Appliances & Rentals', slug: 'appliances-rentals', icon: '🔌', count: 0 },
 ];
-
 export const navLinks = [
   { label: 'Home', href: '/' },
   { label: 'Listings', href: '/listings/' },
